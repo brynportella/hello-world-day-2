@@ -1,0 +1,5 @@
+# Example
+
+- to switch branches 
+`git checkout BRANCHNAME`
+
